@@ -1,4 +1,2 @@
-flask
-requests
-pybitget
-gunicorn
+requirements.txt
+server.py
